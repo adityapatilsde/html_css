@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/22e28f185385193.Y3JvcCwxMDQzLDgxNSwwLDc3.jpg" alt="">
+    <h1>Hi my name is aditya</h1>
+    <h1>Fun facts about me </h1>
+    <ol>
+        <li>20 year old</li>
+        <li>live in india </li>
+        <li>love to code</li>
+    </ol> 
+    <p>Please connect with me on <a href="linkdin.com">linkdin</a></p>
+    <input type="text" placeholder="Enter Email">
+    <button>Join Newsletter</button>
+    <script src="index.js"></script>
+</body>
+</html>
